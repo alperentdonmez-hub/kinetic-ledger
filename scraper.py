@@ -4,9 +4,22 @@ import json
 import time
 from datetime import datetime
 
-# Your target searches
-SEARCH_TERMS = ["Product Manager", "Junior Product Manager"]
-LOCATIONS = ["Munich, Germany", "Heilbronn, Germany"]
+# 1. Read existing database and configuration
+data_file = 'data.json'
+try:
+    with open(data_file, 'r') as f:
+        data = json.load(f)
+except FileNotFoundError:
+    data = {
+        "config": {"keywords": ["Product Manager"], "locations": ["Germany"]},
+        "jobs": [],
+        "pipeline": [],
+        "last_synced": ""
+    }
+
+# Dynamically pull the search terms configured via your UI
+SEARCH_TERMS = data.get("config", {}).get("keywords", ["Product Manager"])
+LOCATIONS = data.get("config", {}).get("locations", ["Germany"])
 
 def scrape_linkedin_jobs(keyword, location):
     url = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
@@ -16,7 +29,7 @@ def scrape_linkedin_jobs(keyword, location):
     params = {
         "keywords": keyword,
         "location": location,
-        "start": 0 # Fetches the 25 most recent jobs
+        "start": 0
     }
     
     jobs = []
@@ -34,7 +47,6 @@ def scrape_linkedin_jobs(keyword, location):
                 link_elem = card.find('a', class_='base-card__full-link')
                 
                 if title_elem and company_elem:
-                    # Extract the unique job ID from the URL to prevent duplicates
                     job_id = link_elem['href'].split('?')[0].split('-')[-1] if link_elem else str(time.time())
                     
                     jobs.append({
@@ -50,18 +62,10 @@ def scrape_linkedin_jobs(keyword, location):
                 continue
     return jobs
 
-# 1. Read existing database
-data_file = 'data.json'
-try:
-    with open(data_file, 'r') as f:
-        data = json.load(f)
-except FileNotFoundError:
-    data = {"jobs": [], "pipeline": [], "last_synced": ""}
-
+# 2. Execute scraping
 existing_ids = {job['id'] for job in data.get('jobs', [])}
 new_jobs_found = 0
 
-# 2. Execute scraping
 for term in SEARCH_TERMS:
     for loc in LOCATIONS:
         print(f"Scraping '{term}' in {loc}...")
@@ -69,10 +73,10 @@ for term in SEARCH_TERMS:
         
         for job in scraped_jobs:
             if job['id'] not in existing_ids:
-                data['jobs'].insert(0, job) # Prepend new jobs
+                data['jobs'].insert(0, job)
                 existing_ids.add(job['id'])
                 new_jobs_found += 1
-        time.sleep(2) # Be polite to LinkedIn's servers
+        time.sleep(2)
 
 # 3. Save updates
 data['last_synced'] = datetime.utcnow().isoformat() + "Z"
