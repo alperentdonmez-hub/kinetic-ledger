@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html class="light" lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>Kinetic Ledger - Dashboard</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com" rel="preconnect"/>
+    <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet"/>
+    <script id="tailwind-config">
+        tailwind.config = {
+          darkMode: "class",
+          theme: {
+            extend: {
+              "colors": {
+                      "background": "#f9f9ff",
+                      "surface": "#f9f9ff",
+                      "surface-container-lowest": "#ffffff",
+                      "surface-container-low": "#f0f3ff",
+                      "surface-container": "#e7eeff",
+                      "surface-container-high": "#dee8ff",
+                      "primary": "#003441",
+                      "primary-container": "#0f4c5c",
+                      "on-primary": "#ffffff",
+                      "on-primary-container": "#87bbce",
+                      "outline": "#70787c",
+                      "outline-variant": "#c0c8cb",
+                      "on-surface": "#111c2d",
+                      "on-surface-variant": "#40484b"
+              },
+              "spacing": {
+                      "stack-md": "16px",
+                      "stack-lg": "24px",
+                      "margin-desktop": "32px",
+                      "margin-mobile": "16px",
+                      "stack-sm": "8px",
+                      "gutter": "24px",
+                      "container-max": "1440px"
+              }
+            }
+          }
+        }
+      </script>
+    <style>
+        /* Custom scrollbar for minimal planner look */
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 4px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background-color: var(--color-outline-variant);
+            border-radius: 20px;
+        }
+        .custom-scrollbar:hover::-webkit-scrollbar-thumb {
+            background-color: var(--color-outline);
+        }
+    </style>
+</head>
+<body class="bg-background text-on-surface font-sans min-h-screen flex flex-col antialiased">
+
+<header class="sticky top-0 w-full z-50 flex justify-between items-center px-margin-mobile md:px-margin-desktop h-[72px] bg-surface border-b border-outline-variant shadow-sm">
+    <div class="flex items-center gap-stack-lg">
+        <span class="text-xl text-primary font-bold tracking-tight">Kinetic Ledger</span>
+    </div>
+    
+    <div class="md:hidden flex items-center">
+        <button class="text-on-surface-variant p-2">
+            <span class="material-symbols-outlined">menu</span>
+        </button>
+    </div>
+
+    <nav class="hidden md:flex items-center gap-stack-lg">
+        <a class="text-primary font-bold border-b-2 border-primary pb-1 px-2 text-sm hover:text-primary transition-colors" href="#">Dashboard</a>
+        <a class="text-on-surface-variant pb-1 px-2 text-sm hover:text-primary transition-colors" href="#">Discovery</a>
+        <a class="text-on-surface-variant pb-1 px-2 text-sm hover:text-primary transition-colors" href="#">Tailoring</a>
+    </nav>
+    
+    <div class="hidden md:flex items-center gap-stack-md">
+        <div class="flex items-center gap-stack-sm bg-surface-container-low px-3 py-1.5 rounded-full border border-outline-variant">
+            <span class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
+            <span class="text-xs font-mono text-on-surface-variant">GitHub Sync Active</span>
+        </div>
+        <button aria-label="settings" class="p-2 text-on-surface-variant hover:text-primary transition-colors rounded-full hover:bg-surface-container-high">
+            <span class="material-symbols-outlined">settings</span>
+        </button>
+        <div class="w-10 h-10 rounded-full bg-surface-container-high border border-outline-variant overflow-hidden shrink-0">
+            <img alt="Profile" class="w-full h-full object-cover" src="https://ui-avatars.com/api/?name=AD&background=0f4c5c&color=fff"/>
+        </div>
+    </div>
+</header>
+
+<main class="flex-grow w-full max-w-container-max mx-auto px-margin-mobile md:px-margin-desktop py-stack-lg grid grid-cols-1 lg:grid-cols-12 gap-gutter">
+    
+    <section class="lg:col-span-4 flex flex-col gap-stack-md max-h-[60vh] lg:max-h-none lg:h-[calc(100vh-120px)] overflow-y-auto pr-2 custom-scrollbar">
+        <div class="flex items-center justify-between mb-2">
+            <h2 class="text-lg font-semibold text-on-surface">Discovery Feed</h2>
+            <button class="text-primary hover:bg-primary-container hover:text-on-primary-container p-1 rounded transition-colors">
+                <span class="material-symbols-outlined text-[20px]">filter_list</span>
+            </button>
+        </div>
+
+        <div class="bg-surface-container-lowest rounded-xl p-stack-md border border-outline-variant shadow-sm hover:shadow-md hover:border-primary transition-all group relative cursor-pointer flex flex-col gap-stack-sm">
+            <div class="flex justify-between items-start">
+                <div class="flex items-center gap-stack-sm">
+                    <div class="w-10 h-10 rounded-full bg-surface-container flex items-center justify-center shrink-0 border border-outline-variant overflow-hidden text-primary font-bold">
+                        S
+                    </div>
+                    <div>
+                        <h3 class="text-md font-semibold text-on-surface leading-tight group-hover:text-primary transition-colors">Siemens</h3>
+                        <p class="text-sm text-on-surface-variant">Product Manager - Digital Ind.</p>
+                    </div>
+                </div>
+                <div class="bg-surface-container-high px-2 py-1 rounded text-xs font-semibold text-primary flex items-center gap-1">
+                    <span class="material-symbols-outlined text-[14px]">bolt</span> 95%
+                </div>
+            </div>
+            <div class="flex justify-between items-end mt-2">
+                <span class="text-xs font-mono text-on-surface-variant uppercase">Munich • Hybrid</span>
+                <button class="bg-surface hover:bg-surface-container-high text-primary border border-primary px-3 py-1.5 rounded text-xs font-mono transition-colors flex items-center gap-1">
+                    Load Role <span class="material-symbols-outlined text-[14px]">arrow_forward</span>
+                </button>
+            </div>
+        </div>
+
+        <div class="bg-surface-container-lowest rounded-xl p-stack-md border border-outline-variant shadow-sm hover:shadow-md hover:border-primary transition-all group relative cursor-pointer flex flex-col gap-stack-sm">
+            <div class="flex justify-between items-start">
+                <div class="flex items-center gap-stack-sm">
+                    <div class="w-10 h-10 rounded-full bg-surface-container flex items-center justify-center shrink-0 border border-outline-variant overflow-hidden text-primary font-bold">
+                        TI
+                    </div>
+                    <div>
+                        <h3 class="text-md font-semibold text-on-surface leading-tight group-hover:text-primary transition-colors">Techtronic Industries</h3>
+                        <p class="text-sm text-on-surface-variant">Junior Product Manager</p>
+                    </div>
+                </div>
+                <div class="bg-surface-container-high px-2 py-1 rounded text-xs font-semibold text-primary flex items-center gap-1">
+                    <span class="material-symbols-outlined text-[14px]">bolt</span> 88%
+                </div>
+            </div>
+            <div class="flex justify-between items-end mt-2">
+                <span class="text-xs font-mono text-on-surface-variant uppercase">Stuttgart • On-site</span>
+                <button class="bg-surface hover:bg-surface-container-high text-primary border border-primary px-3 py-1.5 rounded text-xs font-mono transition-colors flex items-center gap-1">
+                    Load Role <span class="material-symbols-outlined text-[14px]">arrow_forward</span>
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <section class="lg:col-span-5 flex flex-col gap-stack-md mt-6 lg:mt-0">
+        <h2 class="text-lg font-semibold text-on-surface mb-2">Tailoring Workspace</h2>
+        
+        <div class="bg-surface-container-lowest rounded-xl p-stack-lg border border-outline-variant shadow-sm flex flex-col h-full gap-stack-lg relative overflow-hidden">
+            
+            <div class="bg-surface-container p-3 rounded-lg border border-outline-variant flex items-center justify-between">
+                <div class="flex items-center gap-3">
+                    <div class="w-8 h-8 rounded-full bg-green-100 flex items-center justify-center text-green-600">
+                        <span class="material-symbols-outlined text-[18px]">check_circle</span>
+                    </div>
+                    <div class="flex flex-col">
+                        <span class="text-sm font-semibold text-on-surface">Base CV Active</span>
+                        <span class="text-xs text-on-surface-variant">A_Donmez_Master_CV.pdf</span>
+                    </div>
+                </div>
+                <button class="text-primary text-xs hover:underline flex items-center gap-1">
+                    <span class="material-symbols-outlined text-[14px]">edit</span> Update
+                </button>
+            </div>
+
+            <div class="flex flex-col gap-stack-sm">
+                <h3 class="text-md font-semibold text-on-surface">Selected Role Profile</h3>
+                <div class="p-4 border border-outline-variant rounded-lg bg-surface flex flex-col gap-2">
+                    <div class="flex items-center justify-between border-b border-outline-variant pb-2">
+                        <div class="flex items-center gap-2">
+                            <span class="material-symbols-outlined text-primary">work</span>
+                            <span class="text-sm font-semibold text-on-surface">Product Manager - Digital Ind.</span>
+                        </div>
+                        <span class="text-xs font-mono text-on-surface-variant">Siemens</span>
+                    </div>
+                    <p class="text-xs text-on-surface-variant leading-relaxed">
+                        Extracted keywords: Agile, Product Lifecycle, Scrum, B2B hardware/software integration, Cross-functional leadership.
+                    </p>
+                </div>
+            </div>
+
+            <div class="flex-grow border-2 border-dashed border-outline-variant rounded-xl flex flex-col items-center justify-center p-stack-lg text-center bg-surface hover:bg-surface-container-low transition-colors group">
+                <div class="w-16 h-16 rounded-full bg-surface-container-high flex items-center justify-center mb-4 text-on-surface-variant">
+                    <span class="material-symbols-outlined text-[32px]">document_scanner</span>
+                </div>
+                <h4 class="text-md font-semibold text-on-surface mb-1">Ready for Generation</h4>
+                <p class="text-sm text-on-surface-variant mb-4 max-w-[250px]">The AI will map your base experiences to the Siemens role requirements.</p>
+            </div>
+
+            <div class="flex flex-col gap-stack-sm mt-auto">
+                <button class="w-full bg-primary hover:bg-primary-container text-white text-lg py-4 rounded-xl shadow-sm hover:shadow-md transition-all flex items-center justify-center gap-2 relative overflow-hidden group">
+                    <span class="relative z-10 font-semibold">Generate Tailored CV</span>
+                    <span class="material-symbols-outlined relative z-10 group-hover:translate-x-1 transition-transform">auto_awesome</span>
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <section class="lg:col-span-3 flex flex-col gap-stack-md max-h-[60vh] lg:max-h-none lg:h-[calc(100vh-120px)] overflow-y-auto custom-scrollbar mt-6 lg:mt-0">
+        <div class="flex items-center justify-between mb-2">
+            <h2 class="text-lg font-semibold text-on-surface">Active Pipeline</h2>
+            <span class="text-xs font-mono bg-surface-container-high text-on-surface px-2 py-0.5 rounded-full">2 Active</span>
+        </div>
+        
+        <div class="flex flex-col relative before:absolute before:inset-y-4 before:left-[15px] before:w-px before:bg-outline-variant gap-stack-md">
+            
+            <div class="relative pl-10 flex flex-col gap-1 group">
+                <div class="absolute left-0 top-1.5 w-8 h-8 rounded-full bg-surface border-2 border-green-500 flex items-center justify-center z-10 shadow-sm">
+                    <span class="material-symbols-outlined text-green-600 text-[16px]">calendar_month</span>
+                </div>
+                <div class="bg-surface-container-lowest rounded-lg p-3 border border-outline-variant shadow-sm group-hover:border-green-300 transition-colors">
+                    <div class="flex justify-between items-start mb-1">
+                        <span class="text-xs font-semibold text-green-700 bg-green-100 px-2 py-0.5 rounded-full">Interview Scheduled</span>
+                        <span class="text-xs font-mono text-on-surface-variant">Oct 24</span>
+                    </div>
+                    <h4 class="text-sm font-semibold text-on-surface leading-tight mt-2">Stripe</h4>
+                    <p class="text-xs text-on-surface-variant mb-2">Product Engineer</p>
+                    
+                    <div class="flex items-center gap-1 text-xs text-primary bg-surface-container-low px-2 py-1 rounded border border-outline-variant w-max cursor-pointer hover:bg-surface-container">
+                        <span class="material-symbols-outlined text-[14px]">picture_as_pdf</span>
+                        Stripe_Tailored_CV.pdf
+                    </div>
+                </div>
+            </div>
+
+            <div class="relative pl-10 flex flex-col gap-1 group">
+                <div class="absolute left-0 top-1.5 w-8 h-8 rounded-full bg-surface border-2 border-amber-500 flex items-center justify-center z-10 shadow-sm">
+                    <span class="material-symbols-outlined text-amber-600 text-[16px]">hourglass_empty</span>
+                </div>
+                <div class="bg-surface-container-lowest rounded-lg p-3 border border-outline-variant shadow-sm group-hover:border-amber-300 transition-colors">
+                    <div class="flex justify-between items-start mb-1">
+                        <span class="text-xs font-semibold text-amber-700 bg-amber-100 px-2 py-0.5 rounded-full">Awaiting Reply</span>
+                        <span class="text-xs font-mono text-on-surface-variant">2d ago</span>
+                    </div>
+                    <h4 class="text-sm font-semibold text-on-surface leading-tight mt-2">Vercel</h4>
+                    <p class="text-xs text-on-surface-variant mb-2">Frontend Developer</p>
+                    
+                    <div class="flex items-center gap-1 text-xs text-primary bg-surface-container-low px-2 py-1 rounded border border-outline-variant w-max cursor-pointer hover:bg-surface-container">
+                        <span class="material-symbols-outlined text-[14px]">picture_as_pdf</span>
+                        Vercel_Tailored_CV.pdf
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+</main>
+</body>
+</html>
