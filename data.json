@@ -1,9 +1,195 @@
 {
   "config": {
-    "keywords": ["Product Manager"],
-    "locations": ["Heilbronn, Germany", "Munich, Germany"]
+    "keywords": [
+      "Product Manager"
+    ],
+    "locations": [
+      "Heilbronn, Germany",
+      "Munich, Germany"
+    ]
   },
-  "jobs": [],
+  "jobs": [
+    {
+      "id": "4410397221",
+      "title": "Senior Product Manager (m/w/d)",
+      "company": "Peter Park",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-m-w-d-at-peter-park-4410397221?position=10&pageNum=0&refId=LR%2Fk31OS0PIsOnXg76dNeQ%3D%3D&trackingId=DRvBamhqbiABGs%2BJS1JJ3w%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4419285225",
+      "title": "Senior Product Manager",
+      "company": "neuco",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-at-neuco-4419285225?position=9&pageNum=0&refId=LR%2Fk31OS0PIsOnXg76dNeQ%3D%3D&trackingId=Seir7x4JYIqMzieD1bKDDg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4377336905",
+      "title": "Product Manager",
+      "company": "finAPI",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-at-finapi-4377336905?position=8&pageNum=0&refId=LR%2Fk31OS0PIsOnXg76dNeQ%3D%3D&trackingId=cPM8jsvPCt8%2BKrm7V0guPQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4423642578",
+      "title": "Senior Product Manager",
+      "company": "MERMEC Deutschland GmbH",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-at-mermec-deutschland-gmbh-4423642578?position=7&pageNum=0&refId=LR%2Fk31OS0PIsOnXg76dNeQ%3D%3D&trackingId=MEqzUzQpZZxtHJVTYH56rw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4413473562",
+      "title": "Senior Product Manager (f/m/d)",
+      "company": "auteon",
+      "location": "Greater Munich Metropolitan Area",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-f-m-d-at-auteon-4413473562?position=6&pageNum=0&refId=LR%2Fk31OS0PIsOnXg76dNeQ%3D%3D&trackingId=x%2BK3hijm0upRIfyje2DS8g%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4418801544",
+      "title": "Product Manager \u2013 TeamViewer ONE",
+      "company": "TeamViewer",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-%E2%80%93-teamviewer-one-at-teamviewer-4418801544?position=5&pageNum=0&refId=LR%2Fk31OS0PIsOnXg76dNeQ%3D%3D&trackingId=SOpexuLZw1tv2nszf7IXGA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4431715549",
+      "title": "Associate Product Manager (m/f/d) - Sports Technology",
+      "company": "KINEXON",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/associate-product-manager-m-f-d-sports-technology-at-kinexon-4431715549?position=4&pageNum=0&refId=LR%2Fk31OS0PIsOnXg76dNeQ%3D%3D&trackingId=NHO2S8%2F343SPKS6TijAZYQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4422330263",
+      "title": "Global Product Manager",
+      "company": "Nuna",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/global-product-manager-at-nuna-4422330263?position=3&pageNum=0&refId=LR%2Fk31OS0PIsOnXg76dNeQ%3D%3D&trackingId=mHtjm7TxFs6Een1k8aj4Og%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4418745529",
+      "title": "Product Manager",
+      "company": "Stott and May",
+      "location": "Greater Munich Metropolitan Area",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-at-stott-and-may-4418745529?position=2&pageNum=0&refId=LR%2Fk31OS0PIsOnXg76dNeQ%3D%3D&trackingId=EnI%2FcI1WSKiAebM%2FWkHPkQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4426407371",
+      "title": "Product Manager - New Products (m/w/d)",
+      "company": "ocumeda",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-new-products-m-w-d-at-ocumeda-4426407371?position=1&pageNum=0&refId=LR%2Fk31OS0PIsOnXg76dNeQ%3D%3D&trackingId=E2JaUIvwQ4e%2BNTLip%2Folow%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4428814134",
+      "title": "Product Manager Data Analytics (f/m/x)",
+      "company": "ZEISS Group",
+      "location": "Oberkochen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-data-analytics-f-m-x-at-zeiss-group-4428814134?position=10&pageNum=0&refId=DJ6YBaqHnuAtEKza82E6cw%3D%3D&trackingId=OSnCZmFfjLQgg%2B40AefiwA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4429857875",
+      "title": "Product Manager for Kyano AI solutions (f/m/d)",
+      "company": "SNP Group",
+      "location": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-for-kyano-ai-solutions-f-m-d-at-snp-group-4429857875?position=9&pageNum=0&refId=DJ6YBaqHnuAtEKza82E6cw%3D%3D&trackingId=n5adlwq%2FB4uAC8pSse4ziQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4426963511",
+      "title": "Product Manager - Data & Analytics (w/m/d)",
+      "company": "1&1 Telecommunication SE",
+      "location": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-data-analytics-w-m-d-at-1-1-telecommunication-se-4426963511?position=8&pageNum=0&refId=DJ6YBaqHnuAtEKza82E6cw%3D%3D&trackingId=u92ysDkCrX1dzmSbAS6gKQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4419838517",
+      "title": "Product Manager (gn)",
+      "company": "Seturion",
+      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-gn-at-seturion-4419838517?position=7&pageNum=0&refId=DJ6YBaqHnuAtEKza82E6cw%3D%3D&trackingId=2cUjpkhgFSJ7j2dRNUqY%2Bg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4429641772",
+      "title": "Produktmanager (m/w/d)",
+      "company": "SMIGHT GmbH",
+      "location": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-m-w-d-at-smight-gmbh-4429641772?position=6&pageNum=0&refId=DJ6YBaqHnuAtEKza82E6cw%3D%3D&trackingId=C7PKfpllCe2BtgNKFmgyOA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4423672074",
+      "title": "Product Manager - Payments (m/f/x)",
+      "company": "Tipico",
+      "location": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-payments-m-f-x-at-tipico-4423672074?position=5&pageNum=0&refId=DJ6YBaqHnuAtEKza82E6cw%3D%3D&trackingId=Io%2FNdlGJTQPoI0nvBNxF6g%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4423694432",
+      "title": "Product Manager - Customer Success (m/w/d)",
+      "company": "Laserhub GmbH",
+      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-customer-success-m-w-d-at-laserhub-gmbh-4423694432?position=4&pageNum=0&refId=DJ6YBaqHnuAtEKza82E6cw%3D%3D&trackingId=6nk1qJezaMAM9Y8%2FcESZ%2FA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4429795543",
+      "title": "Product Manager \u2013 TeamViewer ONE",
+      "company": "TeamViewer",
+      "location": "Stuttgart Region",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-%E2%80%93-teamviewer-one-at-teamviewer-4429795543?position=3&pageNum=0&refId=DJ6YBaqHnuAtEKza82E6cw%3D%3D&trackingId=I3LTvlhJbAF1xIDOBWpnMw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4430091404",
+      "title": "Product Manager & Company Builder (m/w/d) | nexmart",
+      "company": "nexMart, Inc.",
+      "location": "Stuttgart Region",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-company-builder-m-w-d-nexmart-at-nexmart-inc-4430091404?position=2&pageNum=0&refId=DJ6YBaqHnuAtEKza82E6cw%3D%3D&trackingId=7E77rPUXjRsrZy%2BtQF2BRQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4344891107",
+      "title": "Product Manager (m/w/d)",
+      "company": "Olmatic",
+      "location": "Stuttgart Region",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-m-w-d-at-olmatic-4344891107?position=1&pageNum=0&refId=DJ6YBaqHnuAtEKza82E6cw%3D%3D&trackingId=x03SUNBgIepD1LqUhsDENw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    }
+  ],
   "pipeline": [],
-  "last_synced": ""
+  "last_synced": "2026-06-25T10:44:11.226076Z"
 }
