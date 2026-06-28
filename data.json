@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4433843007",
+      "title": "Product Manager (m/w/d)",
+      "company": "Edenred Deutschland GmbH",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-m-w-d-at-edenred-deutschland-gmbh-4433843007?position=4&pageNum=0&refId=%2FNTycBB%2FZgLJSBdT0iDQOw%3D%3D&trackingId=bbGKMlmMbnuDa4dI%2BV4UxA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4411639013",
       "title": "Senior Product Manager (m/f/x) Operations",
       "company": "FINN",
@@ -344,5 +353,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-06-27T10:11:10.444039Z"
+  "last_synced": "2026-06-28T10:29:10.997201Z"
 }
