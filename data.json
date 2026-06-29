@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4428754345",
+      "title": "Product Owner (m/w/d) \u2013 AI-Native Product Development",
+      "company": "abasoft EDV-Programme GmbH",
+      "location": "Freiberg am Neckar, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-owner-m-w-d-%E2%80%93-ai-native-product-development-at-abasoft-edv-programme-gmbh-4428754345?position=10&pageNum=0&refId=lv1m5iZfCr8lhGS%2Fw6Ro%2FA%3D%3D&trackingId=xZi6l6Z2Oaf0yAj9SnQs5g%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4433843007",
       "title": "Product Manager (m/w/d)",
       "company": "Edenred Deutschland GmbH",
@@ -353,5 +362,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-06-28T10:29:10.997201Z"
+  "last_synced": "2026-06-29T12:36:57.550608Z"
 }
