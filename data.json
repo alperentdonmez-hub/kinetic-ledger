@@ -10,6 +10,42 @@
   },
   "jobs": [
     {
+      "id": "4431922023",
+      "title": "Product Manager (m/f/d)",
+      "company": "Trackunit",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-m-f-d-at-trackunit-4431922023?position=6&pageNum=0&refId=nTuCb7%2BFdef%2FvDcTW8ErOQ%3D%3D&trackingId=ozZWIsm7gKjRFvTlU98irg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4429730136",
+      "title": "Technical Product Manager (m/f/d)",
+      "company": "Deutsche Telekom",
+      "location": "Leinfelden-Echterdingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/technical-product-manager-m-f-d-at-deutsche-telekom-4429730136?position=9&pageNum=0&refId=Ghf0Ak0BXOh1o%2F3zTuRvxQ%3D%3D&trackingId=k1ZkxfFp4p5%2FvQE0tZmmFw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4382400083",
+      "title": "PRODUCT MANAGER - TEXTIL",
+      "company": "JAKO AG",
+      "location": "Mulfingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-textil-at-jako-ag-4382400083?position=8&pageNum=0&refId=Ghf0Ak0BXOh1o%2F3zTuRvxQ%3D%3D&trackingId=fRO4WVqXe%2FmMLaZ%2FffHmUA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4386158974",
+      "title": "Product Manager Aftermarket",
+      "company": "Eaton",
+      "location": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-aftermarket-at-eaton-4386158974?position=7&pageNum=0&refId=Ghf0Ak0BXOh1o%2F3zTuRvxQ%3D%3D&trackingId=u2oCMvf0rtabv9mTCopZ2A%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4428754345",
       "title": "Product Owner (m/w/d) \u2013 AI-Native Product Development",
       "company": "abasoft EDV-Programme GmbH",
@@ -362,5 +398,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-06-29T12:36:57.550608Z"
+  "last_synced": "2026-06-30T10:58:31.929071Z"
 }
