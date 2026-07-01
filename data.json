@@ -10,6 +10,33 @@
   },
   "jobs": [
     {
+      "id": "4431934639",
+      "title": "Product Manager (all genders) - IoT Platform",
+      "company": "Wemolo",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-all-genders-iot-platform-at-wemolo-4431934639?position=4&pageNum=0&refId=AucvvAziyQ4rWA3Ff8Mezg%3D%3D&trackingId=rvvt%2FiAfkdipn%2FF6X08jhw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4431909308",
+      "title": "Product Manager, Portals Ecosystem (m/f/d)",
+      "company": "Trackunit",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-portals-ecosystem-m-f-d-at-trackunit-4431909308?position=2&pageNum=0&refId=AucvvAziyQ4rWA3Ff8Mezg%3D%3D&trackingId=ORSC4pXMUACjoAocxaZHrg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4416518532",
+      "title": "Senior Technical Product Manager, Swap",
+      "company": "1inch",
+      "location": "Stuttgart Region",
+      "url": "https://de.linkedin.com/jobs/view/senior-technical-product-manager-swap-at-1inch-4416518532?position=2&pageNum=0&refId=PILuN0eHxgR3N2%2BjK7Fjqw%3D%3D&trackingId=gtTX0Z%2B4PXYcfu1dYw17yw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4431922023",
       "title": "Product Manager (m/f/d)",
       "company": "Trackunit",
@@ -398,5 +425,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-06-30T10:58:31.929071Z"
+  "last_synced": "2026-07-01T11:25:30.547176Z"
 }
