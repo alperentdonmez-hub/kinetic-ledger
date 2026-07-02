@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4435813306",
+      "title": "Founding Product Manager",
+      "company": "Clera",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/founding-product-manager-at-clera-4435813306?position=9&pageNum=0&refId=Qg6zqyvELCJ3vRsWqKmDpQ%3D%3D&trackingId=43EV5su8E%2FOi%2FKIxVOcmmQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4431934639",
       "title": "Product Manager (all genders) - IoT Platform",
       "company": "Wemolo",
@@ -425,5 +434,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-01T11:25:30.547176Z"
+  "last_synced": "2026-07-02T10:42:37.087123Z"
 }
