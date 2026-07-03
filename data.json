@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4419879004",
+      "title": "Product Manager",
+      "company": "Sobi - Swedish Orphan Biovitrum AB (publ)",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-at-sobi-swedish-orphan-biovitrum-ab-publ-4419879004?position=10&pageNum=0&refId=8U1mpG7Buor9Khgu8iSv4A%3D%3D&trackingId=IvLB95MZYlwSZ%2FQSvjt3FQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4399035179",
+      "title": "(Junior) Product Development Manager",
+      "company": "yfood Labs",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/junior-product-development-manager-at-yfood-labs-4399035179?position=9&pageNum=0&refId=8U1mpG7Buor9Khgu8iSv4A%3D%3D&trackingId=%2FxP1UTjtFmTYortWuRZVvA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4435813306",
       "title": "Founding Product Manager",
       "company": "Clera",
@@ -434,5 +452,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-02T10:42:37.087123Z"
+  "last_synced": "2026-07-03T10:38:01.731022Z"
 }
