@@ -10,6 +10,42 @@
   },
   "jobs": [
     {
+      "id": "4432713040",
+      "title": "Product Manager (all genders)",
+      "company": "meteocontrol",
+      "location": "Augsburg, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-all-genders-at-meteocontrol-4432713040?position=6&pageNum=0&refId=XIJL46kGYI8RYIl0bPCtkA%3D%3D&trackingId=fb207uv4D0wvYcbIr%2B1vTQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4432373340",
+      "title": "Product Manager (m/f/d)",
+      "company": "Alasco",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-m-f-d-at-alasco-4432373340?position=2&pageNum=0&refId=XIJL46kGYI8RYIl0bPCtkA%3D%3D&trackingId=%2BW35oEjRldakdA7k2WLuwQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4419525400",
+      "title": "Product Manager Growth (m/w/d) \u2013 SaaS, E-Commerce, Stuttgart",
+      "company": "Instaffo",
+      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-growth-m-w-d-%E2%80%93-saas-e-commerce-stuttgart-at-instaffo-4419525400?position=10&pageNum=0&refId=x%2FNFxbn7Ki1r44dxkt7NfA%3D%3D&trackingId=LNRsVx1k3B6v1Af%2BQ795YA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4433742391",
+      "title": "Produktmanager (m/w/d)",
+      "company": "SMIGHT GmbH",
+      "location": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-m-w-d-at-smight-gmbh-4433742391?position=4&pageNum=0&refId=x%2FNFxbn7Ki1r44dxkt7NfA%3D%3D&trackingId=AEIrqmWnWlyXC%2Fn%2BAOGZzg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4419879004",
       "title": "Product Manager",
       "company": "Sobi - Swedish Orphan Biovitrum AB (publ)",
@@ -452,5 +488,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-03T10:38:01.731022Z"
+  "last_synced": "2026-07-04T10:12:07.190233Z"
 }
