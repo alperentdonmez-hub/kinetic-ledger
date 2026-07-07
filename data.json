@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4433973321",
+      "title": "Founding Product Manager (m/w/d)",
+      "company": "Auxilius",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/founding-product-manager-m-w-d-at-auxilius-4433973321?position=4&pageNum=0&refId=dnBcPpKccUcQ4%2BPwjbKKCg%3D%3D&trackingId=7RJmbObKP4cx%2FmHL6zz65g%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4433158533",
       "title": "GLOBAL PRODUCT MANAGER (M/F/D) Defense",
       "company": "Dr. Maier + Partner Group",
@@ -497,5 +506,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-06T12:06:25.253668Z"
+  "last_synced": "2026-07-07T11:08:36.043947Z"
 }
