@@ -10,6 +10,33 @@
   },
   "jobs": [
     {
+      "id": "4437799156",
+      "title": "Produktmanager (m/w/d) Organisation/Prozessoptimierung Betriebe",
+      "company": "Alliance Healthcare Deutschland GmbH",
+      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-m-w-d-organisation-prozessoptimierung-betriebe-at-alliance-healthcare-deutschland-gmbh-4437799156?position=10&pageNum=0&refId=1vW3BnV%2Bi4u7KvM91GsZVg%3D%3D&trackingId=s%2B%2B4XGU%2BxrDR9WUrAguP1g%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4438591601",
+      "title": "(Junior) Product Manager Customer Intelligence (m/w/d)",
+      "company": "Lidl in Germany",
+      "location": "Neckarsulm, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/junior-product-manager-customer-intelligence-m-w-d-at-lidl-in-germany-4438591601?position=7&pageNum=0&refId=1vW3BnV%2Bi4u7KvM91GsZVg%3D%3D&trackingId=kvyCME4uxuCzuzKnM%2Fn1iA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4435645736",
+      "title": "Product Manager \u2013 Customer Experience / Plattform (m/w/d)",
+      "company": "Laserhub GmbH",
+      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-%E2%80%93-customer-experience-plattform-m-w-d-at-laserhub-gmbh-4435645736?position=4&pageNum=0&refId=1vW3BnV%2Bi4u7KvM91GsZVg%3D%3D&trackingId=zpGT5qSLhY5B8NNNwufLVQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4433089352",
       "title": "Product Manager, SaaS (F/M/D)",
       "company": "NavVis",
@@ -524,5 +551,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-08T10:20:29.972939Z"
+  "last_synced": "2026-07-09T11:06:17.738543Z"
 }
