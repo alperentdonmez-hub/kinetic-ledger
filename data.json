@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4439764343",
+      "title": "Product Manager",
+      "company": "Jaipur Robotics",
+      "location": "Greater Munich Metropolitan Area",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-at-jaipur-robotics-4439764343?position=2&pageNum=0&refId=ppZ79ejlZKK1flV7JSR73A%3D%3D&trackingId=bae70nTbOivma7k%2Fa9zbqA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4440004381",
+      "title": "Technical Product Manager (m/w/d)",
+      "company": "Instaffo",
+      "location": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/technical-product-manager-m-w-d-at-instaffo-4440004381?position=4&pageNum=0&refId=FujTbUTYJkKhmYlk6n%2BVew%3D%3D&trackingId=sRhsIwakC27XS0IoB1Vk8A%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4434552773",
       "title": "Senior Product Manager",
       "company": "neuco",
@@ -596,5 +614,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-12T09:52:10.521835Z"
+  "last_synced": "2026-07-13T11:13:27.078988Z"
 }
