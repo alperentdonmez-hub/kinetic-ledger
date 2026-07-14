@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4437265098",
+      "title": "Senior Product Manager",
+      "company": "MERMEC Deutschland GmbH",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-at-mermec-deutschland-gmbh-4437265098?position=10&pageNum=0&refId=w2iCk6PBrv0WeJN577JrCA%3D%3D&trackingId=4T3odalCPr%2FE9EyJm%2Bey%2BQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4440033396",
+      "title": "Software Product Manager (w/m/d)",
+      "company": "TECHNIA",
+      "location": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/software-product-manager-w-m-d-at-technia-4440033396?position=4&pageNum=0&refId=Aj8h6YrB3YocTrkZsAgRtQ%3D%3D&trackingId=VxfxyiUa0WWZQ3ZIPj%2BH4w%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4439764343",
       "title": "Product Manager",
       "company": "Jaipur Robotics",
@@ -614,5 +632,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-13T11:13:27.078988Z"
+  "last_synced": "2026-07-14T10:00:06.541237Z"
 }
