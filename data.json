@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4437643793",
+      "title": "Product Manager Lenovo (w/m/d)",
+      "company": "Bechtle",
+      "location": "Neckarsulm, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-lenovo-w-m-d-at-bechtle-4437643793?position=10&pageNum=0&refId=LEorVLgUAQfnVxQjkdmotw%3D%3D&trackingId=5xyL0rGXXEVLlFAWX8mwVQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4437265098",
       "title": "Senior Product Manager",
       "company": "MERMEC Deutschland GmbH",
@@ -632,5 +641,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-14T10:00:06.541237Z"
+  "last_synced": "2026-07-15T10:04:27.762384Z"
 }
