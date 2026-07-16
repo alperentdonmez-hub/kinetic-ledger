@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4440541000",
+      "title": "Product Compliance Manager",
+      "company": "Nuna",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-compliance-manager-at-nuna-4440541000?position=8&pageNum=0&refId=gYpsjqsfr5I%2BrzOGqLjGjg%3D%3D&trackingId=ErmyCBpc%2BeGSL9WbRaOOuA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4439832986",
+      "title": "Senior Sales Manager Product Lifecycle Management (PLM) (m/w/d)",
+      "company": "CENIT",
+      "location": "Stuttgart Region",
+      "url": "https://de.linkedin.com/jobs/view/senior-sales-manager-product-lifecycle-management-plm-m-w-d-at-cenit-4439832986?position=9&pageNum=0&refId=fjFSTiN0YYLUJZ0xZwItAw%3D%3D&trackingId=xz2oJp6orfW02vLfCyUAKg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4437643793",
       "title": "Product Manager Lenovo (w/m/d)",
       "company": "Bechtle",
@@ -641,5 +659,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-15T10:04:27.762384Z"
+  "last_synced": "2026-07-16T10:10:31.939119Z"
 }
