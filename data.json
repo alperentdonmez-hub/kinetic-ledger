@@ -10,6 +10,33 @@
   },
   "jobs": [
     {
+      "id": "4437693657",
+      "title": "Product Manager (all genders) - IoT Platform",
+      "company": "Wemolo",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-all-genders-iot-platform-at-wemolo-4437693657?position=6&pageNum=0&refId=7Z%2FZi7Ypwd9WW1vgCq2UZw%3D%3D&trackingId=F4e2toL1sytnWXfAY94fHQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4441164652",
+      "title": "Produkt Manager (m/w/d)",
+      "company": "KAMPA GmbH",
+      "location": "Aalen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produkt-manager-m-w-d-at-kampa-gmbh-4441164652?position=8&pageNum=0&refId=EVMLyyyult8YmrMkxgwRIw%3D%3D&trackingId=i3GB9gMnbfPJZKHwRyVHmw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4440569993",
+      "title": "Product Manager (gn)",
+      "company": "Seturion",
+      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-gn-at-seturion-4440569993?position=4&pageNum=0&refId=EVMLyyyult8YmrMkxgwRIw%3D%3D&trackingId=Imf3VTrJcBhfJXLNa%2F1bhA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4440541000",
       "title": "Product Compliance Manager",
       "company": "Nuna",
@@ -659,5 +686,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-16T10:10:31.939119Z"
+  "last_synced": "2026-07-17T09:58:57.458892Z"
 }
