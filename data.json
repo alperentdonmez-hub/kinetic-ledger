@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4440001897",
+      "title": "Product Manager (m/w/d)",
+      "company": "IP Dynamics GmbH",
+      "location": "Greater Munich Metropolitan Area",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-m-w-d-at-ip-dynamics-gmbh-4440001897?position=10&pageNum=0&refId=Xh3mvWYIdXYddB3YkaD4LQ%3D%3D&trackingId=NzF5%2BjEIJkxd8IsQuZ%2Fz%2Bg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4437693657",
       "title": "Product Manager (all genders) - IoT Platform",
       "company": "Wemolo",
@@ -686,5 +695,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-20T10:53:40.881131Z"
+  "last_synced": "2026-07-21T10:26:31.478713Z"
 }
