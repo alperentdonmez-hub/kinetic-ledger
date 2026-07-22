@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4443341208",
+      "title": "Product Manager (all genders) - IoT Platform",
+      "company": "Wemolo",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-all-genders-iot-platform-at-wemolo-4443341208?position=5&pageNum=0&refId=k1zUWSCKwfXz3vcjKmG0rw%3D%3D&trackingId=2y3kHTktt1hrzHx2hk9aRA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4399533486",
+      "title": "Product Management Evangelist (all genders) - Bretten",
+      "company": "SEEBURGER",
+      "location": "Bretten, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-management-evangelist-all-genders-bretten-at-seeburger-4399533486?position=10&pageNum=0&refId=JDKaxR%2FTr3ReWGvrefIxEA%3D%3D&trackingId=yL09wbb4qjs0TCUEGVqV5g%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4440001897",
       "title": "Product Manager (m/w/d)",
       "company": "IP Dynamics GmbH",
@@ -695,5 +713,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-21T10:26:31.478713Z"
+  "last_synced": "2026-07-22T10:26:16.373081Z"
 }
