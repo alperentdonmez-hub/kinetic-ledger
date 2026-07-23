@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4443358659",
+      "title": "Produktmanager Datenkommunikation (m/w/d)",
+      "company": "binder Gruppe",
+      "location": "Neckarsulm, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-datenkommunikation-m-w-d-at-binder-gruppe-4443358659?position=10&pageNum=0&refId=dkwB96Hr783FuC2QCi2Rtg%3D%3D&trackingId=mWLCOhbZ8z%2FQ%2FpiXLs2xgA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4443341208",
       "title": "Product Manager (all genders) - IoT Platform",
       "company": "Wemolo",
@@ -713,5 +722,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-22T10:26:16.373081Z"
+  "last_synced": "2026-07-23T10:24:34.185689Z"
 }
