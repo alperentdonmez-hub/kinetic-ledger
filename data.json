@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4441596101",
+      "title": "Product Manager L-Type Products (f/m/d)",
+      "company": "kiutra",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-l-type-products-f-m-d-at-kiutra-4441596101?position=7&pageNum=0&refId=C6dbcXcciQ8nAiVuNIa21A%3D%3D&trackingId=2jnUy9DhZ9DCKd9I4%2BbTXQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4441511787",
+      "title": "Product Manager",
+      "company": "Helsing",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-at-helsing-4441511787?position=2&pageNum=0&refId=C6dbcXcciQ8nAiVuNIa21A%3D%3D&trackingId=4zFKH1anfXh8JZLZOw8tKQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4443358659",
       "title": "Produktmanager Datenkommunikation (m/w/d)",
       "company": "binder Gruppe",
@@ -722,5 +740,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-23T10:24:34.185689Z"
+  "last_synced": "2026-07-24T10:20:01.751343Z"
 }
