@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4443809890",
+      "title": "Product Manager",
+      "company": "JD Ross Energy",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-at-jd-ross-energy-4443809890?position=7&pageNum=0&refId=tUuSMOJE5z0ASM8m5sKDXw%3D%3D&trackingId=Y5abJXcuV4r5RhDIKKRgBg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4441596101",
       "title": "Product Manager L-Type Products (f/m/d)",
       "company": "kiutra",
@@ -740,5 +749,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-26T10:01:55.175916Z"
+  "last_synced": "2026-07-27T11:24:46.749249Z"
 }
