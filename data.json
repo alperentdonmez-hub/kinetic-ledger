@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4443254358",
+      "title": "Product Manager (all genders) - IoT Platform",
+      "company": "Wemolo",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-all-genders-iot-platform-at-wemolo-4443254358?position=8&pageNum=0&refId=3zTqSdI1qfU0Gre3pm8rHw%3D%3D&trackingId=BdHk1Itxm60v93zvJaAARw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4444896760",
+      "title": "Product Manager - Data & Analytics (w/m/d)",
+      "company": "1&1",
+      "location": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-data-analytics-w-m-d-at-1-1-4444896760?position=3&pageNum=0&refId=kUQGeqSQjbCunY3iqTXefw%3D%3D&trackingId=Tx2LyXCaPG0BVvXsYgUwkw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4443809890",
       "title": "Product Manager",
       "company": "JD Ross Energy",
@@ -749,5 +767,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-27T11:24:46.749249Z"
+  "last_synced": "2026-07-28T10:37:11.604808Z"
 }
