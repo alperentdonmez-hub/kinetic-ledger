@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4443273993",
+      "title": "Senior Product Manager (f/m/x)",
+      "company": "Mindfuel",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-f-m-x-at-mindfuel-4443273993?position=7&pageNum=0&refId=rRc7yKbMIcv3eKf9QMUM0Q%3D%3D&trackingId=n1cm%2B8VCd6Kekk9UYeugCg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4443254358",
       "title": "Product Manager (all genders) - IoT Platform",
       "company": "Wemolo",
@@ -767,5 +776,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-28T10:37:11.604808Z"
+  "last_synced": "2026-07-29T10:41:00.863405Z"
 }
