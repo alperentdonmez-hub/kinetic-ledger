@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4445903538",
+      "title": "Product Owner",
+      "company": "Proclinical Staffing",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-owner-at-proclinical-staffing-4445903538?position=10&pageNum=0&refId=ENVzVeMyVlctc1%2BnPykt8Q%3D%3D&trackingId=gmmqZDPbRu3DGAox6TLgvw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4445723589",
+      "title": "Global Product Manager",
+      "company": "ABB",
+      "location": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/global-product-manager-at-abb-4445723589?position=9&pageNum=0&refId=dW9iy9HKvj%2BI%2F2UO%2B2IQqQ%3D%3D&trackingId=Iy6Ee%2F9%2BDgmAAfwfV2g6FA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4443273993",
       "title": "Senior Product Manager (f/m/x)",
       "company": "Mindfuel",
@@ -776,5 +794,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-29T10:41:00.863405Z"
+  "last_synced": "2026-07-30T10:25:55.672719Z"
 }
