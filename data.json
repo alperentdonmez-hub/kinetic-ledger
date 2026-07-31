@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4412931271",
+      "title": "Produktmanager (m/w/d) Industrial Fans",
+      "company": "ZIEHL-ABEGG SE",
+      "location": "Kupferzell, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-m-w-d-industrial-fans-at-ziehl-abegg-se-4412931271?position=10&pageNum=0&refId=bpzNnODSlqFjaKvf71if%2FA%3D%3D&trackingId=%2Bk7UpR8KkH1SnCTWTYCaKw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4445903538",
       "title": "Product Owner",
       "company": "Proclinical Staffing",
@@ -794,5 +803,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-07-30T10:25:55.672719Z"
+  "last_synced": "2026-07-31T10:41:07.380537Z"
 }
