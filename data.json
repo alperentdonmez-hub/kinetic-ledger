@@ -10,6 +10,33 @@
   },
   "jobs": [
     {
+      "id": "4446853811",
+      "title": "Junior Product Manager (m/w/d)",
+      "company": "Michael Page",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/junior-product-manager-m-w-d-at-michael-page-4446853811?position=10&pageNum=0&refId=bextRH6fbE6Zijoy5MSrew%3D%3D&trackingId=whpG0gbZDG%2Fyk%2B1gbdUkag%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4447289297",
+      "title": "Product Manager Foundations (m/f/d)",
+      "company": "Unzer",
+      "location": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-foundations-m-f-d-at-unzer-4447289297?position=5&pageNum=0&refId=N9GMCr5HaZByZGpV18OoFA%3D%3D&trackingId=lPuZR1kZdJj%2FS2jDyuNYsg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4445508996",
+      "title": "Product Manager",
+      "company": "turbalance",
+      "location": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-at-turbalance-4445508996?position=2&pageNum=0&refId=N9GMCr5HaZByZGpV18OoFA%3D%3D&trackingId=6XWf0mgvLfyl5ppb18EI2A%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4439895068",
       "title": "Content Marketing Manager (m/w/d) Schwerpunkt Website",
       "company": "Roto Technologia Okien i Drzwi",
@@ -893,5 +920,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-01T10:02:20.428397Z"
+  "last_synced": "2026-08-02T09:59:02.194404Z"
 }
