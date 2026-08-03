@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4388342796",
+      "title": "Produktmanager (m/w/d) im Bereich Milit\u00e4r, Zivil- und Katastrophenschutz",
+      "company": "K\u00e4rcher",
+      "location": "Schwaikheim, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-m-w-d-im-bereich-milit%C3%A4r-zivil-und-katastrophenschutz-at-k%C3%A4rcher-4388342796?position=10&pageNum=0&refId=eIsAU9HzR06QQBqOMXKE1w%3D%3D&trackingId=isWcPsXbu8CtnOarwOpPRQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4446853811",
       "title": "Junior Product Manager (m/w/d)",
       "company": "Michael Page",
@@ -920,5 +929,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-02T09:59:02.194404Z"
+  "last_synced": "2026-08-03T11:24:51.575179Z"
 }
