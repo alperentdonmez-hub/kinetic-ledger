@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4448840070",
+      "title": "Product Manager (all genders) - IoT Platform",
+      "company": "Wemolo",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-all-genders-iot-platform-at-wemolo-4448840070?position=7&pageNum=0&refId=872mT5k795E86nD9YNr9Pg%3D%3D&trackingId=940RXhb2SfvnOZncwVI1oA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4447992317",
+      "title": "Product Manager (m/f/d)",
+      "company": "Alasco",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-m-f-d-at-alasco-4447992317?position=4&pageNum=0&refId=872mT5k795E86nD9YNr9Pg%3D%3D&trackingId=oji9E%2BLiDe8ZoPFhJ3vGiQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4388342796",
       "title": "Produktmanager (m/w/d) im Bereich Milit\u00e4r, Zivil- und Katastrophenschutz",
       "company": "K\u00e4rcher",
@@ -929,5 +947,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-03T11:24:51.575179Z"
+  "last_synced": "2026-08-04T10:40:43.405157Z"
 }
