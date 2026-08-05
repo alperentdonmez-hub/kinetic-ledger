@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4449019340",
+      "title": "Product Manager (m/f/d)",
+      "company": "DocuWare",
+      "location": "Germering, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-m-f-d-at-docuware-4449019340?position=6&pageNum=0&refId=5FiqiJlHLxMI6HNL2ndObQ%3D%3D&trackingId=4s9KqHR39g4n9cAFwM7VXA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4448840070",
       "title": "Product Manager (all genders) - IoT Platform",
       "company": "Wemolo",
@@ -947,5 +956,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-04T10:40:43.405157Z"
+  "last_synced": "2026-08-05T10:36:43.026173Z"
 }
