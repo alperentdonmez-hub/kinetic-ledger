@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4449189896",
+      "title": "Product Manager - Rental Pod",
+      "company": "Trackunit",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-rental-pod-at-trackunit-4449189896?position=2&pageNum=0&refId=xfCbdAD1imTZgLm%2BVfFN2g%3D%3D&trackingId=G2qS8k%2FaG57BCfPkKe9GLQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4449382510",
+      "title": "Product Manager",
+      "company": "Haystack",
+      "location": "Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-at-haystack-4449382510?position=10&pageNum=0&refId=Am3jJ%2BKxgzXp%2F9PPXjaDyg%3D%3D&trackingId=CrNeUSGUDKliK3beQySXiw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4449019340",
       "title": "Product Manager (m/f/d)",
       "company": "DocuWare",
@@ -956,5 +974,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-05T10:36:43.026173Z"
+  "last_synced": "2026-08-06T10:41:00.060375Z"
 }
