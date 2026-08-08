@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4450349529",
+      "title": "Product Manager - Contractor Pod",
+      "company": "Trackunit",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-contractor-pod-at-trackunit-4450349529?position=1&pageNum=0&refId=g6dP096fpUnesy%2FkmAPm1w%3D%3D&trackingId=jNyS9XYR9VzRYd0RFX%2Fm3A%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4449189896",
       "title": "Product Manager - Rental Pod",
       "company": "Trackunit",
@@ -974,5 +983,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-07T09:00:24.709692Z"
+  "last_synced": "2026-08-08T08:42:32.046218Z"
 }
