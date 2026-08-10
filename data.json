@@ -10,6 +10,33 @@
   },
   "jobs": [
     {
+      "id": "4429975738",
+      "title": "Product Manager Personalization & Revenue Growth (m/f/d)",
+      "company": "SIXT",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-personalization-revenue-growth-m-f-d-at-sixt-4429975738?position=10&pageNum=0&refId=ICl1lZc1yxJ%2F5xEIvLWwug%3D%3D&trackingId=04ooetmRP%2FMcpLCpp%2Flojg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4446667144",
+      "title": "Product Manager (all genders)",
+      "company": "meteocontrol",
+      "location": "Augsburg, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-all-genders-at-meteocontrol-4446667144?position=9&pageNum=0&refId=ICl1lZc1yxJ%2F5xEIvLWwug%3D%3D&trackingId=fQp%2F1EQi8Vhiq8JLY4%2FuOw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4451392840",
+      "title": "Product Manager (all genders) - IoT Platform",
+      "company": "Wemolo",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-all-genders-iot-platform-at-wemolo-4451392840?position=7&pageNum=0&refId=ICl1lZc1yxJ%2F5xEIvLWwug%3D%3D&trackingId=uH%2BgTtGRFrBexPZtsrNlrA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4450349529",
       "title": "Product Manager - Contractor Pod",
       "company": "Trackunit",
@@ -983,5 +1010,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-09T08:44:23.097428Z"
+  "last_synced": "2026-08-10T09:23:39.934950Z"
 }
