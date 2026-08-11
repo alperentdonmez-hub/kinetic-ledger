@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4449549901",
+      "title": "Product Manager",
+      "company": "WorkGenius Group",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-at-workgenius-group-4449549901?position=5&pageNum=0&refId=4dGO4NQlaRucWSgFl4%2B%2FUA%3D%3D&trackingId=EpA90zvtYqiVYeP%2B84STeA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4429975738",
       "title": "Product Manager Personalization & Revenue Growth (m/f/d)",
       "company": "SIXT",
@@ -1010,5 +1019,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-10T09:23:39.934950Z"
+  "last_synced": "2026-08-11T08:58:15.472862Z"
 }
