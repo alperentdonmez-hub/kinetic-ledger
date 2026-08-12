@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4449855964",
+      "title": "Product Manager - Data & Analytics (w/m/d)",
+      "company": "1&1",
+      "location": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-data-analytics-w-m-d-at-1-1-4449855964?position=3&pageNum=0&refId=Pt9GG79qMTicLcVUxNM0uw%3D%3D&trackingId=iykNZ%2B36El02pC%2BBlpYwjg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4449549901",
       "title": "Product Manager",
       "company": "WorkGenius Group",
@@ -1019,5 +1028,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-11T08:58:15.472862Z"
+  "last_synced": "2026-08-12T09:12:47.463091Z"
 }
