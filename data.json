@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4453091567",
+      "title": "Product Manager (m/f/d)",
+      "company": "Sereact",
+      "location": "Stuttgart Region",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-m-f-d-at-sereact-4453091567?position=2&pageNum=0&refId=KMDO%2BpVsKhUcZ5xLbRpmiA%3D%3D&trackingId=H%2BnIu%2B17cbsUEEt4v4XsGA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4449855964",
       "title": "Product Manager - Data & Analytics (w/m/d)",
       "company": "1&1",
@@ -1028,5 +1037,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-12T09:12:47.463091Z"
+  "last_synced": "2026-08-13T09:13:28.029497Z"
 }
