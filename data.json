@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4453512828",
+      "title": "Product Manager",
+      "company": "Haystack",
+      "location": "Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-at-haystack-4453512828?position=10&pageNum=0&refId=3gKqUurjIEhfXVc%2FELDAKA%3D%3D&trackingId=98XdKLJtYCR%2F1%2BUnG16PrA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4434990074",
       "title": "Product Manager App Experience (m/w/d)",
       "company": "XXXLdigital \u2013 Part of XXXL Group",
@@ -1073,5 +1082,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-14T09:08:10.645899Z"
+  "last_synced": "2026-08-15T08:30:18.479997Z"
 }
