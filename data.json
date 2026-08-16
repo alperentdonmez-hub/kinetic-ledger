@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4454065466",
+      "title": "Service Product Manager (m/w/d)",
+      "company": "Groupe SEB",
+      "location": "Geislingen an der Steige, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/service-product-manager-m-w-d-at-groupe-seb-4454065466?position=9&pageNum=0&refId=tn%2B2Ts%2B6Ady0cBKYjKZPCg%3D%3D&trackingId=cRMNiCX47I7jCk0GKLb9Pw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4433744653",
+      "title": "Product Manager - Data Center White Space (EMEA)",
+      "company": "Eaton",
+      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-data-center-white-space-emea-at-eaton-4433744653?position=7&pageNum=0&refId=tn%2B2Ts%2B6Ady0cBKYjKZPCg%3D%3D&trackingId=c5mgA4UM9%2FNX2Pt3choEyg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4453512828",
       "title": "Product Manager",
       "company": "Haystack",
@@ -1082,5 +1100,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-15T08:30:18.479997Z"
+  "last_synced": "2026-08-16T08:30:56.517650Z"
 }
