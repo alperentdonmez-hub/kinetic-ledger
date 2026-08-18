@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4455296739",
+      "title": "Product Manager, Vibe",
+      "company": "Mistral",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-vibe-at-mistral-4455296739?position=5&pageNum=0&refId=sDZ%2FYi4aCZ17PsUPDAcDgw%3D%3D&trackingId=NBVxePZayJtlVcdrw5Jc6g%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4455566510",
+      "title": "Product Manager",
+      "company": "Syensqo",
+      "location": "\u00d6stringen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-at-syensqo-4455566510?position=7&pageNum=0&refId=GrpnKQgVUhF9JO%2Bp4u%2B%2Fpw%3D%3D&trackingId=mxjZAkNA6kvLvawFjylqxw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4426763943",
       "title": "Global Product Manager - Enterprise AI (Munich Germany)",
       "company": "DRIMCO GmbH",
@@ -1136,5 +1154,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-17T08:44:55.179129Z"
+  "last_synced": "2026-08-18T08:38:03.104119Z"
 }
