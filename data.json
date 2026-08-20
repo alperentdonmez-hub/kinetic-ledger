@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4453427471",
+      "title": "Product Manager (all genders)",
+      "company": "Wemolo",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-all-genders-at-wemolo-4453427471?position=2&pageNum=0&refId=WBwgjtY0YQQCjMIDndB3Mg%3D%3D&trackingId=xkmeWif63OEgWNTyGbH0fg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4456181517",
+      "title": "Product Manager (all genders)",
+      "company": "Wemolo",
+      "location": "Greater Munich Metropolitan Area",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-all-genders-at-wemolo-4456181517?position=1&pageNum=0&refId=WBwgjtY0YQQCjMIDndB3Mg%3D%3D&trackingId=C5hmSAVUbRZhNhKRu7Qs%2BA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4449752097",
       "title": "Product Manager - Energy Management (all genders)",
       "company": "reev",
@@ -1244,5 +1262,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-19T08:38:32.184349Z"
+  "last_synced": "2026-08-20T08:39:47.952189Z"
 }
