@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4456240195",
+      "title": "Product Manager (m/w/d)",
+      "company": "Edenred Deutschland GmbH",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-m-w-d-at-edenred-deutschland-gmbh-4456240195?position=10&pageNum=0&refId=0%2BKmvGcqIx2nwFvyI9mhWA%3D%3D&trackingId=5gcVo2umP31UI8Xi2mLUaQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4456224460",
+      "title": "Product Manager - Rental Pod",
+      "company": "Trackunit",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-rental-pod-at-trackunit-4456224460?position=4&pageNum=0&refId=0%2BKmvGcqIx2nwFvyI9mhWA%3D%3D&trackingId=KZfDihXb2M%2FSujGoiircGw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4453422657",
       "title": "Senior Product Manager, Rx eCommerce (m/f/d)",
       "company": "Redcare Pharmacy",
@@ -1361,5 +1379,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-24T08:49:39.800547Z"
+  "last_synced": "2026-08-25T08:43:25.087382Z"
 }
