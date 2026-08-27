@@ -10,6 +10,42 @@
   },
   "jobs": [
     {
+      "id": "4455673855",
+      "title": "Product Manager - Rental Pod",
+      "company": "Trackunit",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-rental-pod-at-trackunit-4455673855?position=3&pageNum=0&refId=AF%2Fv6cwt7oIIqSey4%2BuNGw%3D%3D&trackingId=nKE53mEoMmB0YpGZeoenpw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4440256030",
+      "title": "Global Product Manager (m/w/d) f\u00fcr Service und Digital Solutions",
+      "company": "Syntegon",
+      "location": "Fellbach, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/global-product-manager-m-w-d-f%C3%BCr-service-und-digital-solutions-at-syntegon-4440256030?position=10&pageNum=0&refId=zvkf7IdSW%2BYjV%2FfD7CUSLA%3D%3D&trackingId=CvplB9UUOVjHiXS8lMR5iA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4391569610",
+      "title": "Produktmanager (m/w/d) Payment",
+      "company": "S-Payment",
+      "location": "Stuttgart Region",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-m-w-d-payment-at-s-payment-4391569610?position=9&pageNum=0&refId=zvkf7IdSW%2BYjV%2FfD7CUSLA%3D%3D&trackingId=EOSLXy3IlXdkNuLsjjXpNQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4385513361",
+      "title": "Senior Product Manager- SAP MM / Inventory Management (d/f/m)",
+      "company": "4flow",
+      "location": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-sap-mm-inventory-management-d-f-m-at-4flow-4385513361?position=8&pageNum=0&refId=zvkf7IdSW%2BYjV%2FfD7CUSLA%3D%3D&trackingId=2%2FxOnq33%2B%2FpEjKyCstuxGQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4456240195",
       "title": "Product Manager (m/w/d)",
       "company": "Edenred Deutschland GmbH",
@@ -1379,5 +1415,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-26T08:45:11.709034Z"
+  "last_synced": "2026-08-27T18:55:57.827948Z"
 }
