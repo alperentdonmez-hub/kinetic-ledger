@@ -10,6 +10,33 @@
   },
   "jobs": [
     {
+      "id": "4454628807",
+      "title": "Product Manager - Physical AI (m/w/d)",
+      "company": "SAEKI",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-physical-ai-m-w-d-at-saeki-4454628807?position=10&pageNum=0&refId=wtz5aNWWz3T%2Bes%2B6sM%2Fh5A%3D%3D&trackingId=4yL79%2FFGESWGwMEIEs3Ong%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4451655899",
+      "title": "Product Manager",
+      "company": "turbalance",
+      "location": "Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-at-turbalance-4451655899?position=4&pageNum=0&refId=82OjLL5eywr6gn5IXfYPqA%3D%3D&trackingId=6v2STRhs3f2OmPzzky9i6A%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4460304989",
+      "title": "Product Manager \u2013 Business Computing (M-F-D)",
+      "company": "HP",
+      "location": "B\u00f6blingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-%E2%80%93-business-computing-m-f-d-at-hp-4460304989?position=3&pageNum=0&refId=82OjLL5eywr6gn5IXfYPqA%3D%3D&trackingId=NVi1BCn0HwZ42NfdvZ%2BAqw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4455673855",
       "title": "Product Manager - Rental Pod",
       "company": "Trackunit",
@@ -1415,5 +1442,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-27T18:55:57.827948Z"
+  "last_synced": "2026-08-28T19:56:57.837254Z"
 }
