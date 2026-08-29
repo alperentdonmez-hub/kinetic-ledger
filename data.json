@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4432837265",
+      "title": "Produktmanager Sachversicherung (m/f/x)",
+      "company": "Allianz Direct",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-sachversicherung-m-f-x-at-allianz-direct-4432837265?position=10&pageNum=0&refId=mcC4mKq9H%2Fz1%2BFneuSA97g%3D%3D&trackingId=7aQPJzq3kXYYFldyb7IPMQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4458405573",
+      "title": "Senior Product Manager (m/f/d)",
+      "company": "ecoplanet",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-m-f-d-at-ecoplanet-4458405573?position=4&pageNum=0&refId=mcC4mKq9H%2Fz1%2BFneuSA97g%3D%3D&trackingId=nHCUJpipxwjDrJGcvgO%2BjA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4454628807",
       "title": "Product Manager - Physical AI (m/w/d)",
       "company": "SAEKI",
@@ -1442,5 +1460,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-28T19:56:57.837254Z"
+  "last_synced": "2026-08-29T13:40:14.376323Z"
 }
