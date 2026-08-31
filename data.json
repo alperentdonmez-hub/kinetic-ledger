@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4446238223",
+      "title": "Produktmanager (m/w/d) Reinigungsroboter",
+      "company": "K\u00e4rcher",
+      "location": "Schwaikheim, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-m-w-d-reinigungsroboter-at-k%C3%A4rcher-4446238223?position=10&pageNum=0&refId=UodujljkN2JhnxID9SOo%2FA%3D%3D&trackingId=CaR%2FM1eM6taE6dmmHhmFvg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4461040603",
+      "title": "Product Manager AI App & Sitebuilder (w/m/d)",
+      "company": "FAMU National Alumni Association",
+      "location": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-ai-app-sitebuilder-w-m-d-at-famu-national-alumni-association-4461040603?position=3&pageNum=0&refId=UodujljkN2JhnxID9SOo%2FA%3D%3D&trackingId=%2BOXhJ2ujCHewhYLgzgcUVQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4432837265",
       "title": "Produktmanager Sachversicherung (m/f/x)",
       "company": "Allianz Direct",
@@ -1460,5 +1478,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-30T13:37:52.632005Z"
+  "last_synced": "2026-08-31T15:55:42.503047Z"
 }
