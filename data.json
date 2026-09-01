@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4451385932",
+      "title": "Produktmanager (m/w/d) f\u00fcr Digital Solutions",
+      "company": "ZIEHL-ABEGG SE",
+      "location": "K\u00fcnzelsau, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-m-w-d-f%C3%BCr-digital-solutions-at-ziehl-abegg-se-4451385932?position=10&pageNum=0&refId=Wuafv4PA8FfvspBblH52VQ%3D%3D&trackingId=7p7aS75Q1SPqnR0y10HYFg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4446238223",
       "title": "Produktmanager (m/w/d) Reinigungsroboter",
       "company": "K\u00e4rcher",
@@ -1478,5 +1487,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-08-31T15:55:42.503047Z"
+  "last_synced": "2026-09-01T13:11:58.828551Z"
 }
