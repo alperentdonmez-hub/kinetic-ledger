@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4461008826",
+      "title": "Product Manager",
+      "company": "turbalance",
+      "location": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-at-turbalance-4461008826?position=1&pageNum=0&refId=pAMiNxTXqRAIQN9xOKhyEA%3D%3D&trackingId=8MclKIQbjPJovls9nBjWhw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4451385932",
       "title": "Produktmanager (m/w/d) f\u00fcr Digital Solutions",
       "company": "ZIEHL-ABEGG SE",
@@ -1487,5 +1496,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-09-01T13:11:58.828551Z"
+  "last_synced": "2026-09-02T12:37:00.507054Z"
 }
