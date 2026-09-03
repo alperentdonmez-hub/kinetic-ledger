@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4460989609",
+      "title": "Product Manager (m/f/d)",
+      "company": "Alasco",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-m-f-d-at-alasco-4460989609?position=4&pageNum=0&refId=DHQoT36n58%2FGeCbXCV0I0g%3D%3D&trackingId=aa%2BHHSlv%2B8LiXzooWlZNKQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4461008826",
       "title": "Product Manager",
       "company": "turbalance",
@@ -1496,5 +1505,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-09-02T12:37:00.507054Z"
+  "last_synced": "2026-09-03T12:39:42.631069Z"
 }
