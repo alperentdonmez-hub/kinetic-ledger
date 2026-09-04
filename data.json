@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4461949649",
+      "title": "Software Product Manager (w/m/d)",
+      "company": "Infuseit Sweden",
+      "location": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/software-product-manager-w-m-d-at-infuseit-sweden-4461949649?position=9&pageNum=0&refId=UpbQDejPRWEsAtm2z2Fcww%3D%3D&trackingId=NQQo%2FuqFQHpuhMGYEN2jOA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4460989609",
       "title": "Product Manager (m/f/d)",
       "company": "Alasco",
@@ -1505,5 +1514,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-09-03T12:39:42.631069Z"
+  "last_synced": "2026-09-04T12:33:58.294085Z"
 }
