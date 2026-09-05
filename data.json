@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4458190672",
+      "title": "Product Manager (m/f/d) Home Energy Solution (B2C)",
+      "company": "The Mobility House Energy",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-m-f-d-home-energy-solution-b2c-at-the-mobility-house-energy-4458190672?position=9&pageNum=0&refId=3XRNUWaruXupIy3FSsQ71A%3D%3D&trackingId=v3UM5uMURSC0BkTPoZVXLQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4462406867",
+      "title": "Technical Product Manager - Platform & Integration",
+      "company": "Retarus",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/technical-product-manager-platform-integration-at-retarus-4462406867?position=3&pageNum=0&refId=3XRNUWaruXupIy3FSsQ71A%3D%3D&trackingId=H1i1z5XittYtSu5q5OfVfw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4461949649",
       "title": "Software Product Manager (w/m/d)",
       "company": "Infuseit Sweden",
@@ -1514,5 +1532,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-09-04T12:33:58.294085Z"
+  "last_synced": "2026-09-05T11:42:08.621581Z"
 }
