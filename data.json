@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4462924899",
+      "title": "Product Manager - Energy Management (all genders)",
+      "company": "reev",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-energy-management-all-genders-at-reev-4462924899?position=10&pageNum=0&refId=n9i%2Bt5KVU5p5bXJTLYn5NA%3D%3D&trackingId=wTWFI3hyOD7l96SpHqw4%2FQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4462623117",
+      "title": "Senior Product Manager (f/m/d)",
+      "company": "Apaleo",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-f-m-d-at-apaleo-4462623117?position=3&pageNum=0&refId=n9i%2Bt5KVU5p5bXJTLYn5NA%3D%3D&trackingId=U4Dl%2FQ88BI9HiU%2BNQFMOCQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4458190672",
       "title": "Product Manager (m/f/d) Home Energy Solution (B2C)",
       "company": "The Mobility House Energy",
@@ -1532,5 +1550,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-09-06T11:59:53.018113Z"
+  "last_synced": "2026-09-07T14:02:56.217210Z"
 }
