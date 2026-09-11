@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4433852322",
+      "title": "Senior Product Manager (m/w/d)",
+      "company": "Peter Park",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-m-w-d-at-peter-park-4433852322?position=10&pageNum=0&refId=5%2Fl1w3Ay2rYEoM3mG6j09Q%3D%3D&trackingId=5Ap%2BlzpoaiJChVxtq%2BkCJQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4466043704",
+      "title": "(Senior-) Produktmanager (w/m/d)",
+      "company": "ELO Digital Office - Deutschland",
+      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-produktmanager-w-m-d-at-elo-digital-office-deutschland-4466043704?position=10&pageNum=0&refId=hJ2xLIi8q0x94i%2Fi%2FJ7FoA%3D%3D&trackingId=VRfU0EmqaviceCT8Bn2JlA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4463437703",
       "title": "Product Manager",
       "company": "WorkGenius Group",
@@ -1568,5 +1586,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-09-10T12:45:24.919307Z"
+  "last_synced": "2026-09-11T12:40:05.791834Z"
 }
