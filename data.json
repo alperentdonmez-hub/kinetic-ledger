@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4466094970",
+      "title": "Technical Product Manager - Platform & Integration",
+      "company": "Retarus",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/technical-product-manager-platform-integration-at-retarus-4466094970?position=3&pageNum=0&refId=iO4b9mNimCrkg%2FZ9GtdiAw%3D%3D&trackingId=q%2F9ZzVp2KT7wSYGwjw845A%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4433852322",
       "title": "Senior Product Manager (m/w/d)",
       "company": "Peter Park",
@@ -1586,5 +1595,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-09-11T12:40:05.791834Z"
+  "last_synced": "2026-09-12T12:00:18.822424Z"
 }
