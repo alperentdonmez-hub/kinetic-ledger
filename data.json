@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4466071182",
+      "title": "Produktmanager (m/w/d) Payment",
+      "company": "S-Payment",
+      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-m-w-d-payment-at-s-payment-4466071182?position=10&pageNum=0&refId=FTurBw5VOjn2zqFqHbLr0A%3D%3D&trackingId=Ik7WKPLJx%2FmJ54sY1mJdwg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4466094970",
       "title": "Technical Product Manager - Platform & Integration",
       "company": "Retarus",
@@ -1595,5 +1604,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-09-12T12:00:18.822424Z"
+  "last_synced": "2026-09-13T13:09:46.014896Z"
 }
