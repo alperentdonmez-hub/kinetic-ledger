@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4455072958",
+      "title": "(Senior) Product Manager (m/w/d)",
+      "company": "encosa energy",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-m-w-d-at-encosa-energy-4455072958?position=10&pageNum=0&refId=Jt%2BVsN44jFUtxeTPGbhXZg%3D%3D&trackingId=XMWdOx2TveSdu2NpkPg%2FKw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4466071182",
       "title": "Produktmanager (m/w/d) Payment",
       "company": "S-Payment",
@@ -1604,5 +1613,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-09-14T14:48:22.778052Z"
+  "last_synced": "2026-09-15T13:14:11.270384Z"
 }
