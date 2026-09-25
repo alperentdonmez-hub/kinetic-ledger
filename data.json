@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4471862510",
+      "title": "Product Manager for fruits.co & OpusDNS (m/f/d)",
+      "company": "OpusDNS",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-for-fruits-co-opusdns-m-f-d-at-opusdns-4471862510?position=2&pageNum=0&refId=gNeobkQEYlEWwEUW4tg1CA%3D%3D&trackingId=ycd9In%2F%2BIkgddw5mEd0w%2BQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4470976182",
       "title": "Technical Product Manager - Platform & Integration",
       "company": "Retarus",
@@ -1676,5 +1685,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-09-24T13:20:13.984681Z"
+  "last_synced": "2026-09-25T13:20:24.625741Z"
 }
