@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4471264879",
+      "title": "Global Product Manager",
+      "company": "DRIMCO GmbH",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/global-product-manager-at-drimco-gmbh-4471264879?position=6&pageNum=0&refId=j3%2FQ%2Fq4JTOpXmRDU2dL1fQ%3D%3D&trackingId=7cR%2FsAIw4PV4Y8%2FKIeanLQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4284938538",
       "title": "Product Manager - Hardware Certification",
       "company": "Canonical",
@@ -1694,5 +1703,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-09-28T16:32:08.624654Z"
+  "last_synced": "2026-09-29T14:40:53.976974Z"
 }
