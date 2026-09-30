@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4468554998",
+      "title": "Senior Product Manager - Ad Creator (all genders)",
+      "company": "F11",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-ad-creator-all-genders-at-f11-4468554998?position=10&pageNum=0&refId=ZZwi1%2FWgtoL0Kz7gDVCgNg%3D%3D&trackingId=SXqThfS2zXC%2FKYf4UX7XwQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4468574790",
+      "title": "(Senior) Product Manager (m/w/d)",
+      "company": "encosa energy",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-m-w-d-at-encosa-energy-4468574790?position=9&pageNum=0&refId=ZZwi1%2FWgtoL0Kz7gDVCgNg%3D%3D&trackingId=EoYvFdRHt4c0swJCeKGsvA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4471264879",
       "title": "Global Product Manager",
       "company": "DRIMCO GmbH",
@@ -1703,5 +1721,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-09-29T14:40:53.976974Z"
+  "last_synced": "2026-09-30T14:41:57.166533Z"
 }
