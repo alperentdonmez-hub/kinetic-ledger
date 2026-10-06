@@ -10,6 +10,78 @@
   },
   "jobs": [
     {
+      "id": "4475571340",
+      "title": "Produktverantwortlicher (m/w/d)",
+      "company": "HELU KABEL GmbH",
+      "location": "Hemmingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktverantwortlicher-m-w-d-at-helu-kabel-gmbh-4475571340?position=10&pageNum=0&refId=SZfHcjsFndLBe%2BfGNdT%2F5g%3D%3D&trackingId=BHGg3X%2FekaH1IOFEakz0bQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4468631978",
+      "title": "Product Manager - Production Platform (all genders)",
+      "company": "GROPYUS",
+      "location": "Richen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-production-platform-all-genders-at-gropyus-4468631978?position=9&pageNum=0&refId=SZfHcjsFndLBe%2BfGNdT%2F5g%3D%3D&trackingId=tWZsPJm2MiAG9SrlWAN%2BiA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4475564553",
+      "title": "Product Manager Automation (m/w/d)",
+      "company": "HELU KABEL GmbH",
+      "location": "Hemmingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-automation-m-w-d-at-helu-kabel-gmbh-4475564553?position=8&pageNum=0&refId=SZfHcjsFndLBe%2BfGNdT%2F5g%3D%3D&trackingId=v0RTrfctf0YtdE%2Fs64pC9A%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4402915693",
+      "title": "(Senior) Produktmanager Optoelektronik (m/w/d)",
+      "company": "W\u00fcrth Elektronik Group",
+      "location": "Waldenburg, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-produktmanager-optoelektronik-m-w-d-at-w%C3%BCrth-elektronik-group-4402915693?position=7&pageNum=0&refId=SZfHcjsFndLBe%2BfGNdT%2F5g%3D%3D&trackingId=me8Cf6fp0VodBWgR0gnlNw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4399963708",
+      "title": "Senior Produktmanager Optoelektronik (m/w/d)",
+      "company": "W\u00fcrth Elektronik Group",
+      "location": "Waldenburg, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-produktmanager-optoelektronik-m-w-d-at-w%C3%BCrth-elektronik-group-4399963708?position=6&pageNum=0&refId=SZfHcjsFndLBe%2BfGNdT%2F5g%3D%3D&trackingId=snfvg5QiG%2B53Vx4j%2B89BbQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4464478018",
+      "title": "Global Product Manager Inside Cabinet (m/w/d)",
+      "company": "Friedrich L\u00fctze GmbH",
+      "location": "Beutelsbach, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/global-product-manager-inside-cabinet-m-w-d-at-friedrich-l%C3%BCtze-gmbh-4464478018?position=5&pageNum=0&refId=SZfHcjsFndLBe%2BfGNdT%2F5g%3D%3D&trackingId=AQ4qvtHXnTAznLS2TGWklg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4456912026",
+      "title": "Global Product Manager - Energy I Smart Grid (m/f/d)",
+      "company": "TE Connectivity",
+      "location": "Waiblingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/global-product-manager-energy-i-smart-grid-m-f-d-at-te-connectivity-4456912026?position=4&pageNum=0&refId=SZfHcjsFndLBe%2BfGNdT%2F5g%3D%3D&trackingId=KWsF35Tk%2B9oDqpJuzEFYxw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4456913019",
+      "title": "Global Product Manager - Energy I Smart Grid (m/w/d)",
+      "company": "TE Connectivity",
+      "location": "Waiblingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/global-product-manager-energy-i-smart-grid-m-w-d-at-te-connectivity-4456913019?position=3&pageNum=0&refId=SZfHcjsFndLBe%2BfGNdT%2F5g%3D%3D&trackingId=VpTeOCiRJH6%2BVhatNIJzLQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4468554998",
       "title": "Senior Product Manager - Ad Creator (all genders)",
       "company": "F11",
@@ -1721,5 +1793,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-10-05T16:53:08.844199Z"
+  "last_synced": "2026-10-06T14:49:20.311545Z"
 }
