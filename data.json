@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4475408138",
+      "title": "Product Manager - Energy Management (all genders)",
+      "company": "reev",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-energy-management-all-genders-at-reev-4475408138?position=7&pageNum=0&refId=bfXTyCI7%2BsPuDjnaukb3TQ%3D%3D&trackingId=%2BSA1c4Q3wzOBvZuFh4Bvkg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4476529713",
+      "title": "Produktmanager Strommarkt & Sektorenkopplung (all genders)",
+      "company": "AVAT Automation GmbH",
+      "location": "T\u00fcbingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-strommarkt-sektorenkopplung-all-genders-at-avat-automation-gmbh-4476529713?position=4&pageNum=0&refId=kxRuBEDTfEqeHdLR%2F1BUdA%3D%3D&trackingId=JpzOnuZ45JBK%2FstgQfxuzg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4475571340",
       "title": "Produktverantwortlicher (m/w/d)",
       "company": "HELU KABEL GmbH",
@@ -1793,5 +1811,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-10-06T14:49:20.311545Z"
+  "last_synced": "2026-10-07T15:18:51.841066Z"
 }
