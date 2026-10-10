@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4477805870",
+      "title": "Technical Product Manager - Platform & Integration",
+      "company": "Retarus",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/technical-product-manager-platform-integration-at-retarus-4477805870?position=5&pageNum=0&refId=vlyorw9T5hkl2RJguJS2YQ%3D%3D&trackingId=sIRe9nM7kgSx%2BmPhO2Yj9g%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4476859234",
+      "title": "(Senior) Product Manager GenAI & KI-Agenten (m/w/d)",
+      "company": "W\u00fcrth Deutschland",
+      "location": "Stadt Heilbronn, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-genai-ki-agenten-m-w-d-at-w%C3%BCrth-deutschland-4476859234?position=1&pageNum=0&refId=DH3%2BmszSWkJBrcduPeT50g%3D%3D&trackingId=y3I6j4tHgxki%2B0GDR%2Ff0hQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4465050216",
       "title": "Global Product Manager Inside Cabinet (m/w/d)",
       "company": "Friedrich L\u00fctze GmbH",
@@ -1829,5 +1847,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-10-09T15:02:30.829770Z"
+  "last_synced": "2026-10-10T14:17:58.308370Z"
 }
