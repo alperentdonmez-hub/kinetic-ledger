@@ -10,6 +10,33 @@
   },
   "jobs": [
     {
+      "id": "4476402559",
+      "title": "Produktmanager Energiedaten (m/w/d)",
+      "company": "Syneco Trading GmbH",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-energiedaten-m-w-d-at-syneco-trading-gmbh-4476402559?position=10&pageNum=0&refId=iRezcBZKjjzDuQtpR7Yr2Q%3D%3D&trackingId=bf5KMOGawu6K3PGJ5k1j0Q%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4479032018",
+      "title": "Senior Product Manager \u2013 Shopping Experience (f/m/d)",
+      "company": "Plantura",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-%E2%80%93-shopping-experience-f-m-d-at-plantura-4479032018?position=8&pageNum=0&refId=iRezcBZKjjzDuQtpR7Yr2Q%3D%3D&trackingId=mnJADwuv%2BRbAzCojIXMs1Q%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4476077118",
+      "title": "(Senior) Product Manager GenAI & KI-Agenten (m/w/d)",
+      "company": "W\u00fcrth Deutschland",
+      "location": "Heilbronn, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-genai-ki-agenten-m-w-d-at-w%C3%BCrth-deutschland-4476077118?position=10&pageNum=0&refId=Z6LC0h%2B4%2BSUk9N7BPfS58g%3D%3D&trackingId=MPUSW5zCqPA4KQ3tIUVNdw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4477805719",
       "title": "Produktmanager Strommarkt & Sektorenkopplung (m/w/d)",
       "company": "Michael Page",
@@ -1856,5 +1883,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-10-12T17:28:56.055241Z"
+  "last_synced": "2026-10-13T15:39:04.761785Z"
 }
