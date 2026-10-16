@@ -10,6 +10,69 @@
   },
   "jobs": [
     {
+      "id": "4479107397",
+      "title": "Product Manager - Energy Management (all genders)",
+      "company": "reev",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-energy-management-all-genders-at-reev-4479107397?position=6&pageNum=0&refId=ReF5lQzb0ijw5k57Aph8sA%3D%3D&trackingId=cKFfZQm%2FuOC%2FylM6a05%2BWw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4479291289",
+      "title": "Technical Product Manager - Platform & Integration",
+      "company": "Retarus",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/technical-product-manager-platform-integration-at-retarus-4479291289?position=3&pageNum=0&refId=ReF5lQzb0ijw5k57Aph8sA%3D%3D&trackingId=nQn0X%2BNjUFltadWlnLy0pw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4433351845",
+      "title": "Produktmanager Optoelektronik (m/w/d)",
+      "company": "Wurth Elektronik",
+      "location": "Waldenburg, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-optoelektronik-m-w-d-at-wurth-elektronik-4433351845?position=10&pageNum=0&refId=cfNTOSDg%2BdIGTCCKHxBDZQ%3D%3D&trackingId=NuVSxtNc5m95D59AKV0qFA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4453103308",
+      "title": "Product Owner - DATA and AI Cloud - STACKIT (m/w/d)",
+      "company": "STACKIT",
+      "location": "Bad Friedrichshall, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-owner-data-and-ai-cloud-stackit-m-w-d-at-stackit-4453103308?position=9&pageNum=0&refId=cfNTOSDg%2BdIGTCCKHxBDZQ%3D%3D&trackingId=5KS9R7SSEEQrqUXCcAAI1w%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4477076393",
+      "title": "(Senior) Produktmanager Optoelektronik (m/w/d)",
+      "company": "W\u00fcrth Elektronik Group",
+      "location": "Waldenburg, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-produktmanager-optoelektronik-m-w-d-at-w%C3%BCrth-elektronik-group-4477076393?position=6&pageNum=0&refId=cfNTOSDg%2BdIGTCCKHxBDZQ%3D%3D&trackingId=SZfBT3xFfc9NHdKOJzVy%2FA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4476452423",
+      "title": "Global Product Manager - Energy I Smart Grid (m/w/d)",
+      "company": "TE Connectivity",
+      "location": "Waiblingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/global-product-manager-energy-i-smart-grid-m-w-d-at-te-connectivity-4476452423?position=5&pageNum=0&refId=cfNTOSDg%2BdIGTCCKHxBDZQ%3D%3D&trackingId=0MkaANgAH3LE3eSIUcLrUg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4479340323",
+      "title": "(Senior) Product Manager GenAI & KI-Agenten (m/w/d)",
+      "company": "W\u00fcrth Deutschland",
+      "location": "K\u00fcnzelsau, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-genai-ki-agenten-m-w-d-at-w%C3%BCrth-deutschland-4479340323?position=2&pageNum=0&refId=cfNTOSDg%2BdIGTCCKHxBDZQ%3D%3D&trackingId=j2f5f2nM8OVz3Qq%2FWnse%2Fw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4476402559",
       "title": "Produktmanager Energiedaten (m/w/d)",
       "company": "Syneco Trading GmbH",
@@ -1883,5 +1946,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-10-15T13:09:19.885595Z"
+  "last_synced": "2026-10-16T13:03:48.619478Z"
 }
