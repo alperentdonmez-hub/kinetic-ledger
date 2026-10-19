@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4478298123",
+      "title": "(Senior) Product Manager | Carbmee",
+      "company": "carbmee",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-carbmee-at-carbmee-4478298123?position=1&pageNum=0&refId=9f%2Bvx%2FdaTzNyefmf%2BKq4sw%3D%3D&trackingId=vdN0SBwkJZmIMctUNy9BYg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4478559479",
       "title": "Senior AI Product Manager \u2013 GPU Computing",
       "company": "DeepRec.ai",
@@ -1955,5 +1964,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-10-18T12:29:01.722506Z"
+  "last_synced": "2026-10-19T15:20:18.620948Z"
 }
