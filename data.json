@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4479792702",
+      "title": "(Senior-) Produktmanager (w/m/d)",
+      "company": "ELO Digital Office - Deutschland",
+      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-produktmanager-w-m-d-at-elo-digital-office-deutschland-4479792702?position=10&pageNum=0&refId=kckkFx4pM7mWPQPr3UBhkA%3D%3D&trackingId=OG7mQn0DClynaunmVT7L2g%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4478666903",
+      "title": "Senior Product Manager (m/f/d)",
+      "company": "Nesto Software GmbH",
+      "location": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-m-f-d-at-nesto-software-gmbh-4478666903?position=6&pageNum=0&refId=kckkFx4pM7mWPQPr3UBhkA%3D%3D&trackingId=iN8qIYeFbuDRM6GSf9copA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4478298123",
       "title": "(Senior) Product Manager | Carbmee",
       "company": "carbmee",
@@ -1964,5 +1982,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-10-19T15:20:18.620948Z"
+  "last_synced": "2026-10-20T13:23:32.717877Z"
 }
