@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4481911714",
+      "title": "Produktmanager (m/w/d)",
+      "company": "Roto Technologia Okien i Drzwi",
+      "location": "Leinfelden-Echterdingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-m-w-d-at-roto-technologia-okien-i-drzwi-4481911714?position=7&pageNum=0&refId=BHbDvjcifEX6jeiVZWV7KA%3D%3D&trackingId=bGQ%2BAlbyT%2BomiQBg7IQ%2BpQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4481379060",
       "title": "Produktmanager Power Tools (m/w/d)",
       "company": "W\u00fcrth Deutschland",
@@ -2081,5 +2090,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-10-23T13:09:34.802739Z"
+  "last_synced": "2026-10-24T12:29:09.993389Z"
 }
