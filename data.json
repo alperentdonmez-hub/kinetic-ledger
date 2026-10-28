@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4481871572",
+      "title": "Produktmanager / Product Owner (w/m/d) Energiewirtschaft",
+      "company": "hsag Heidelberger Services AG",
+      "location": "Walldorf, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-product-owner-w-m-d-energiewirtschaft-at-hsag-heidelberger-services-ag-4481871572?position=9&pageNum=0&refId=6%2BG%2BLRH5vQqpbOuzGoSTAQ%3D%3D&trackingId=sp%2F0z5ADomebNHbGMV5aXg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4484295823",
+      "title": "Produktmanager Strommarkt & Sektorenkopplung (all genders)",
+      "company": "AVAT Automation GmbH",
+      "location": "T\u00fcbingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-strommarkt-sektorenkopplung-all-genders-at-avat-automation-gmbh-4484295823?position=3&pageNum=0&refId=6%2BG%2BLRH5vQqpbOuzGoSTAQ%3D%3D&trackingId=1Hxdan9SLvOXkqjdjg5YkQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4483241984",
       "title": "Produktmanager - STACKIT (m/w/d)",
       "company": "Schwarz Digits",
@@ -2117,5 +2135,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-10-27T14:05:21.626718Z"
+  "last_synced": "2026-10-28T14:55:20.547994Z"
 }
