@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4482539667",
+      "title": "(Senior) Product Manager | Carbmee",
+      "company": "carbmee",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-carbmee-at-carbmee-4482539667?position=1&pageNum=0&refId=%2Bh1aW1ev9KtAFdd%2Bf6AEHg%3D%3D&trackingId=ygfxvfT7z91ksI5M7rlBTQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4481871572",
       "title": "Produktmanager / Product Owner (w/m/d) Energiewirtschaft",
       "company": "hsag Heidelberger Services AG",
@@ -2135,5 +2144,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-10-28T14:55:20.547994Z"
+  "last_synced": "2026-10-29T14:59:53.141762Z"
 }
