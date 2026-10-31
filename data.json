@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4484711309",
+      "title": "Produktmanager (m/w/d) Mobile Payment",
+      "company": "S-Payment",
+      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-m-w-d-mobile-payment-at-s-payment-4484711309?position=5&pageNum=0&refId=krgG5ozsg6fTHNF3kMWhDg%3D%3D&trackingId=Jtskd9Fk8%2Fza5T8QWm1Q8g%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4483683199",
       "title": "Produktmanager (w/m/d) Automatisierung",
       "company": "TRUMPF",
@@ -2153,5 +2162,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-10-30T14:53:17.506055Z"
+  "last_synced": "2026-10-31T14:22:18.861767Z"
 }
