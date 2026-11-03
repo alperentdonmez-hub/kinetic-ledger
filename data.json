@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4484609349",
+      "title": "Global Product Manager (m/w/d) Industrial Fastening Systems",
+      "company": "Apex Tool Group GmbH - Westhausen",
+      "location": "Westhausen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/global-product-manager-m-w-d-industrial-fastening-systems-at-apex-tool-group-gmbh-westhausen-4484609349?position=10&pageNum=0&refId=JP5zdhvx47dg1PBSqkIjXA%3D%3D&trackingId=%2FcndRAsH9yXW1EX%2Fz7h2HQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4484396828",
+      "title": "Product Manager (w/m/d) - AI App & Sitebuilder",
+      "company": "IONOS",
+      "location": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-w-m-d-ai-app-sitebuilder-at-ionos-4484396828?position=1&pageNum=0&refId=JP5zdhvx47dg1PBSqkIjXA%3D%3D&trackingId=xpVyDDiuj4U15uC5AW3Zrw%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4484711309",
       "title": "Produktmanager (m/w/d) Mobile Payment",
       "company": "S-Payment",
@@ -2162,5 +2180,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-11-02T17:56:07.213470Z"
+  "last_synced": "2026-11-03T15:55:18.686146Z"
 }
