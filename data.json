@@ -10,6 +10,24 @@
   },
   "jobs": [
     {
+      "id": "4486205788",
+      "title": "Senior Produktmanager (m/w/d)",
+      "company": "myposter GmbH",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-produktmanager-m-w-d-at-myposter-gmbh-4486205788?position=5&pageNum=0&refId=0%2FlNoUAs0L%2F6JSgQjcwdhQ%3D%3D&trackingId=6DJ1Z3YAwT9kVA2U3NHq1g%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4486209551",
+      "title": "Produktmanager Pharma (m/w/d)",
+      "company": "MPDV Mikrolab GmbH",
+      "location": "Mosbach, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/produktmanager-pharma-m-w-d-at-mpdv-mikrolab-gmbh-4486209551?position=7&pageNum=0&refId=wQxWRqTzPehiQhRRHPH8sA%3D%3D&trackingId=T9UUzC2bY5ZmtF7uhZRUtg%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4485558147",
       "title": "Produktmanager Pharma (m/w/d)",
       "company": "MPDV Mikrolab GmbH",
@@ -2189,5 +2207,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-11-05T16:14:04.596295Z"
+  "last_synced": "2026-11-06T15:44:26.012901Z"
 }
