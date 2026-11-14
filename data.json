@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4399535961",
+      "title": "Senior Product Manager (f/m/d)",
+      "company": "IDnow",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-f-m-d-at-idnow-4399535961?position=10&pageNum=0&refId=Wa26hNktlIT%2FehyYaJnALw%3D%3D&trackingId=y4KXx8zhKCuQo94bOdKEQA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4488888906",
       "title": "Senior Product Manager",
       "company": "JUPUS",
@@ -2225,5 +2234,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-11-13T15:57:41.886160Z"
+  "last_synced": "2026-11-14T14:50:55.239647Z"
 }
