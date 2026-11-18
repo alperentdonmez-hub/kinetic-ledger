@@ -10,6 +10,33 @@
   },
   "jobs": [
     {
+      "id": "4482851610",
+      "title": "Product Manager Polymer Solutions (m/f/d)",
+      "company": "EOS",
+      "location": "Krailling, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/product-manager-polymer-solutions-m-f-d-at-eos-4482851610?position=10&pageNum=0&refId=WqMHpuu62%2BLpbyGfGEgW2w%3D%3D&trackingId=AeLmglbju8jxIkQlCTIfdQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4492059009",
+      "title": "(Senior) Product Manager (m/w/d)",
+      "company": "Peter Park",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-m-w-d-at-peter-park-4492059009?position=4&pageNum=0&refId=WqMHpuu62%2BLpbyGfGEgW2w%3D%3D&trackingId=zWYw9OHLkZhkAc3FP0vs%2BQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
+      "id": "4491760398",
+      "title": "(Senior) Produktmanager Optoelektronik (m/w/d)",
+      "company": "W\u00fcrth Elektronik Group",
+      "location": "Waldenburg, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-produktmanager-optoelektronik-m-w-d-at-w%C3%BCrth-elektronik-group-4491760398?position=5&pageNum=0&refId=wA6kdF4294D%2FgS0vnfyrBQ%3D%3D&trackingId=EYRu8Vz7WTpJdfz6vB7hyQ%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4435184041",
       "title": "Product Manager - Carbon Management (m/f/x)",
       "company": "osapiens",
@@ -2243,5 +2270,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-11-17T17:27:00.477391Z"
+  "last_synced": "2026-11-18T16:59:17.596868Z"
 }
