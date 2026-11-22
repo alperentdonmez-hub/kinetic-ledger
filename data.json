@@ -10,6 +10,15 @@
   },
   "jobs": [
     {
+      "id": "4492322041",
+      "title": "(Senior) Product Manager (m/w/d)",
+      "company": "encosa energy",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-product-manager-m-w-d-at-encosa-energy-4492322041?position=9&pageNum=0&refId=2z3cVcKfpYhGaxyw6btQ%2BQ%3D%3D&trackingId=ZDwI8Yx9y2kplEU9H1FMqA%3D%3D",
+      "match": "Pending",
+      "status": "New"
+    },
+    {
       "id": "4492589538",
       "title": "Software Product Manager - Emerging Applications & Software (f/m/d)",
       "company": "NXP Semiconductors",
@@ -2288,5 +2297,5 @@
     }
   ],
   "pipeline": [],
-  "last_synced": "2026-11-21T15:56:44.818558Z"
+  "last_synced": "2026-11-22T15:59:38.002282Z"
 }
